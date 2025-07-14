@@ -3,6 +3,8 @@ console.log(mobile);
 
 const con = document.getElementById("container");
 
+console.log(con);
+
 for (let i = 0; i < mobile.length; i++) {
   con.innerHTML += `
   <div><img src=${mobile[i].image}>
