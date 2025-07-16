@@ -13,6 +13,14 @@ if (cartData.length === 0) {
       <h2>${val.title}</h2> 
       <h3>${val.category}</h3>
       <h1>$${val.price}</h1>
+      <h1>$${val.price}</h1>
+      <h1>$${val.price}</h1>
+      <h1>$${val.price}</h1>
+      <h1>$${val.price}</h1>
+      <h1>$${val.price}</h1>
+      <h1>$${val.price}</h1>
+      <h1>$${val.price}</h1>
+      <h1>$${val.price}</h1>
       <button onclick="buyNow(${val.id})">Buy Now!</button>
       
     </div>
